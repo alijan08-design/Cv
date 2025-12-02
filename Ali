@@ -1,0 +1,66 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>Ali Jan - Video Editor Resume</title>
+<style>
+    body { font-family: Arial, sans-serif; margin: 40px; line-height: 1.6; }
+    h1 { margin-bottom: 0; font-size: 32px; }
+    h2 { color: #003366; margin-top: 40px; }
+    .section { margin-bottom: 25px; }
+    .contact { margin-top: 5px; }
+    ul { margin-top: 8px; }
+</style>
+</head>
+<body>
+
+<h1>ALI JAN</h1>
+<p><strong>Junior Video Editor</strong></p>
+
+<div class="contact">
+    Karachi, Pakistan<br>
+    📞 03710186601<br>
+    ✉️ alijanalijan580@gmail.com
+</div>
+
+<h2>PROFILE SUMMARY</h2>
+<p>
+Motivated beginner video editor experienced in creating short-form content using CapCut. 
+Skilled in basic editing techniques, captioning, audio adjustments, and visual enhancements. 
+Eager to learn new tools, follow brand guidelines, and deliver clean, engaging videos. 
+Ready to assist senior editors and grow in a fast-paced editing environment.
+</p>
+
+<h2>VIDEO EDITING EXPERIENCE</h2>
+<p><strong>Junior Video Editor</strong><br>
+2025 – Present • Karachi</p>
+
+<ul>
+    <li>Edit short-form videos using CapCut, including trimming, cutting, and sequencing clips.</li>
+    <li>Add visual enhancements like zooms, punch-ins/outs, text overlays, and transitions.</li>
+    <li>Review and correct captions for accuracy and timing.</li>
+    <li>Adjust audio levels and reduce background noise.</li>
+    <li>Apply basic color correction and filters.</li>
+    <li>Follow simple style/branding guidelines when provided.</li>
+    <li>Collaborate with the main editor for revisions and feedback.</li>
+    <li>Manage multiple editing tasks and stay available for extra work when needed.</li>
+</ul>
+
+<h2>SKILLS</h2>
+<ul>
+    <li>CapCut video editing</li>
+    <li>Short-form content creation (TikTok, Reels, Shorts)</li>
+    <li>Transitions, text, overlays, simple effects</li>
+    <li>Zooms, cuts, reframing, punch-ins/outs</li>
+    <li>Captioning & subtitle correction</li>
+    <li>Audio cleanup and level adjustments</li>
+    <li>Basic color correction & filters</li>
+    <li>Organized workflow and file management</li>
+    <li>Fast learner with strong attention to detail</li>
+</ul>
+
+<h2>EDUCATION</h2>
+<p><strong>High School Diploma – Computer Science</strong><br>
+The Mariam School, Karachi</p>
+
+</body>
+</html>
